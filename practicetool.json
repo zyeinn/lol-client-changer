@@ -1,0 +1,18 @@
+{
+    "customGameLobby":{
+      "configuration":{
+        "gameMode":"PRACTICETOOL",
+        "gameMutator":"",
+        "mapId":11,
+        "mutators":{
+          "id":1
+        },
+        "spectatorPolicy":"NotAllowed",
+        "teamSize":5
+      },
+      "lobbyName":"Practice Tool",
+      "lobbyPassword": null
+    },
+    "isCustom": true
+  }
+  
